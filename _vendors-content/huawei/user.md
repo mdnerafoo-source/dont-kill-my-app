@@ -1,4 +1,5 @@
----
+---https://mirrors.pku.edu.cn/termux/termux-main/: bad
+Sign in to GitHub
 manufacturer:
     - huawei
 
@@ -20,7 +21,7 @@ There is a pre-installed app called system manager which also might kill apps de
     <figcaption>2. Disable the Smart tune-up feature.</figcaption>
   </figure>
 
-</div>
+</div>tmux in package tmux
 
 
 ### App Launch on some EMUI 8, 9 and 10 devices (Huawei P20, Huawei P20 Lite, Huawei Mate 10...)
